@@ -1,3 +1,6 @@
-theme: minima
 title: mutations
-author: asdf
+author: ad
+theme:
+  - cosmo
+  - brand
+css: misc/styles.css

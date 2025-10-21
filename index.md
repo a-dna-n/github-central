@@ -1,5 +1,6 @@
 ---
 title: Hello, world.
+
 ---
 
-This is just the beginning.
+This is a placeholder.
